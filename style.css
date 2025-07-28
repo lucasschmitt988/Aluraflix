@@ -2,3 +2,15 @@ body{
     background: tomato;
 color: black; 
 }
+header {
+    border-bottom: solid 2px  rgb(255, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 0, 0);
+}
+section {
+    background: rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
